@@ -1,0 +1,9 @@
+{"serv":"ikea-ad",
+ "type":"cmd.system.get_connect_params",
+ "val_t":"null",
+ "val":null,
+ "props":null,
+ "tags":null,
+ "ctime":"2017-08-23T12:07:00+0200",
+ "uid":"124235254"
+}
